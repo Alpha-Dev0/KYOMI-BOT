@@ -1,0 +1,7 @@
+{   
+    "check": "*[✘︎]* Por favor verifique su comando en el menu [/cmd]. ",
+    "notdetect": "*[✘︎]* Por favor envie su imagen,video o gif con el comando correspondiente.",
+    "images": "[/is] Convertir imagen a sticker.",
+    "animated": "[/as] Convertir video o gif a sticker animado."
+ 
+}
