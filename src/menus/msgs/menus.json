@@ -1,0 +1,12 @@
+{
+    "MENUS": "┏︎⊱✿⊰|キョミ-ボット|⊱✿⊰┓︎\n\n    🀄KYOMI-Bot:MENUS🀄 \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n     ㊥MENU PRINCIPAL㊥ \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n╟➢ ☣︎[/cmd]= Comandos.\n╟➢ ☣︎[/s]= stickers\n╟➢ ☣︎[/G]= juegos\n╟➢ ☣︎[/kyomi]= Sobre KYOMI\n\n┗⊱✿⊰|キョミ-ボット|⊱✿⊰┛︎",
+    
+    "STICKERS-MENU": "┏︎⊱✿⊰|キョミ-ボット|⊱✿⊰┓︎\n\n🀄KYOMI-Bot:STICKER🀄 \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n    ㊥MENU STICKERS㊥ \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n\n╟➢ ☣︎[/is]= imagen-sticker\n╟➢ ☣︎[/i2s]= imagen-sticker2\n╟➢ ☣︎[/as]= video-sticker\n╟➢ ☣︎[/a2s]= video-sticker2\n\n┗⊱✿⊰|キョミ-ボット|⊱✿⊰┛︎",
+
+    "cmd": "┏︎⊱✿⊰|キョミ-ボット|⊱✿⊰┓︎\n\n 🀄KYOMI-Bot:CMD🀄 \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n    ㊥MENU COMANDOS㊥ \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n\n╟➢ ☣︎[/is]= imagen-sticker\n╟➢ ☣︎[/i2s]= imagen-sticker2\n╟➢ ☣︎[/as]= video-sticker\n╟➢ ☣︎[/a2s]= video-sticker2\n╟➢ ☣︎[/gd -p]= Dados\n\n┗⊱✿⊰|キョミ-ボット|⊱✿⊰┛︎",
+    
+    "MENU-GAMES": "┏︎⊱✿⊰|キョミ-ボット|⊱✿⊰┓︎\n\n🀄KYOMI-Bot:JUEGOS🀄 \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n    ㊥MENU JUEGOS㊥ \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n\n╟➢ ☣︎[/gd -p]= Dados\n\n┗⊱✿⊰|キョミ-ボット|⊱✿⊰┛︎",
+    
+    "kyomi": "┏︎⊱✿⊰|キョミ-ボット|⊱✿⊰┓︎\n\n🀄KYOMI-Bot:ABOUT ME🀄 \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n    ㊥SOBRE KYOMI㊥ \n\n┠⊱✿⊰|キョミ-ボット|⊱✿⊰┨︎\n\n\n     PROJECTO KYOMI V2 \n\nKYOMI es un chatbot de \nwhatsapp creado por Alpha-Dev0\ncon lenguaje de programacion\njavascript. \n\n     CONTACTO \nTwitter: @Alpha_01000001\nTelegram: @Alpha_01000001\n\n    CODIGO FUENTE\nhttps://github.com/Alpha-Dev0\n\n┗⊱✿⊰|キョミ-ボット|⊱✿⊰┛︎"
+    
+}
