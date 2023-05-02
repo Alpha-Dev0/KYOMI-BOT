@@ -17,16 +17,17 @@
 
 ## Edit The Config
 
-Edit `config.json` to customize the stickers
-```JSON
-
+Edit `config.js` to customize the stickers
+```JS
 {
-    "name": "KYOMI-Bot:",
-    "author": "Made by: ",
-    "timezone": "   ",
-    "groups": true
+SUFFIX: "/",                   //command suffix
+    name: "KYOMI-Bot:",       //bot name
+    author: "Made by:     ", //author name
+    timezone: "Etc/GMT-6",    //timezone
+    NOWM: "    ",
+    Noauthor: "    ",
+    consoletxt: "./config/console.txt"
 }
-
 ```
 
 ##  Installation
@@ -56,13 +57,20 @@ Edit `config.json` to customize the stickers
 
 ### Prefix = #
 
-| Features                      | Command           |
-|:-----------------------------:|:-----------------:|
-| Convert Images into stickers  | /is               |
-| Convert Videos into stickers  | /as               |
+| Features                      | Command           |use                |
+|:-----------------------------:|:-----------------:|:-----------------:|
+| Convert Images into stickers  | /is <author>      |group only         |
+| Convert Videos into stickers  | /as <author>      |group only         |
+| Convert Images into stickers2 | /i2s              |group only         |
+| Convert Videos into stickers2 | /a2s              |group only         |
+| Menus                         | /menu             |group only         |
+| all commands                  | /cmd              |group only         |
+| Menu Games                    | /G                |group only         |
+| Menu stickers                 | /s                |group only         |
+| Info about bot                | /kyomi            |group only         |
+| game dices                    | /gd -p            |group only         |
 
-
-
+if you want to join to whatsapp group send me msg
 ## Author
 
 👤 **Alpha-Dev0**
